@@ -1,0 +1,6 @@
+ 462222.dwg                          Fabrication/               Organization/          Quality/
+'Aluma_G1_42x30Metric_2021$0$.ac$'  'Fabrication - Obsolete'/   Patents/               Suppliers/
+'BrandSafway Documents'/            'Fabrication ULMA'/         Prodtech/             'Test Reports'/
+ Customers/                         'Jobsite Photos'/          'Product Management'/   Users/
+'Ed Peery'/                          Maintenance/               Products/
+'Engineering Register.zip'          'New Text Document.txt'     Purchasing/
